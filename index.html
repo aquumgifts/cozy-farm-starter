@@ -164,7 +164,7 @@ function pop(x, y, icon, label) { pops.push({ x, y, icon, label, t: 1 }); }
 // ---------- target tile ----------
 function target() {
   const [dx, dy] = DIRS[pl.dir];
-  return { x: Math.floor((st.px + dx * 11) / T), y: Math.floor((st.py - 4 + dy * 11) / T) };
+  return { x: Math.floor(st.px / T) + dx, y: Math.floor((st.py - 2) / T) + dy }; // the tile next to the one under your feet
 }
 
 // ---------- actions ----------
