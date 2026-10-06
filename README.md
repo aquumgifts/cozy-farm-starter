@@ -30,6 +30,6 @@ Run it locally with any static server, for example `python3 -m http.server 8000`
 ## Licenses
 
 - **Code** (`index.html`, `config.js`): MIT, see [LICENSE](LICENSE).
-- **Art, sounds and font** (`assets/`): [Cozy Farm Lite](https://aquumgifts.itch.io/cozy-farm), [Cozy Farm SFX](https://aquumgifts.itch.io/cozy-farm-sfx) and [Cozy Space Pixel Font](https://aquumgifts.itch.io/cozy-space-pixel-font) by Aquum Studio. Free to use in your games, see `assets/LICENSE-art.txt`. Please credit "Art and sound: Cozy Farm by Aquum Studio".
+- **Art, sounds and font** (`assets/`): [Cozy Farm Lite](https://aquumgifts.itch.io/cozy-farm), [Cozy Farm SFX](https://aquumgifts.itch.io/cozy-farm-sfx) and [Cozy Space Pixel Font](https://aquumgifts.itch.io/cozy-space-pixel-font) by Bramble & Byte. Free to use in your games, see `assets/LICENSE-art.txt`. Please credit "Art and sound: Cozy Farm by Bramble & Byte".
 
 The art is drawn in code and text art and the sounds are synthesized with our own code. No AI image or sound generators were used.

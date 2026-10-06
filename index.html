@@ -7,7 +7,7 @@
 <!--
   Cozy Farm Starter: a tiny top-down farming game and an open source template (MIT, see LICENSE-code.txt).
   Till, plant, water, harvest, ship. One HTML file for the engine, config.js for the map, crops and texts.
-  Art: Cozy Farm Lite (free) · Sounds: Cozy Farm SFX (free) · Font: Cozy Space Pixel Font (free), all by Aquum Studio.
+  Art: Cozy Farm Lite (free) · Sounds: Cozy Farm SFX (free) · Font: Cozy Space Pixel Font (free), all by Bramble & Byte.
   Screenshot modes for the store page: #captura-a | #captura-b | #captura-c | #captura-d (no HUD)
 -->
 <style>
@@ -493,7 +493,7 @@ function drawTitle() {
   text(touch ? "pad: walk · A: use · B: next tool" : "arrows/WASD: walk · Space: use · 1-5: tools", W / 2, 80, { align: "center" });
   text(touch ? "tap to start" : (st.day > 1 ? "Space: continue · N: new farm" : "press Space to start"), W / 2, 98, { align: "center", color: "#cfe3b8" });
   drawFullButton("Full Cozy Farm: 10 crops, animals ↗");
-  text("free assets: Cozy Farm Lite by Aquum Studio", W / 2, 154, { align: "center", color: "#cfe3b8" });
+  text("free assets: Cozy Farm Lite by Bramble & Byte", W / 2, 154, { align: "center", color: "#cfe3b8" });
 }
 function frame() {
   ctx.setTransform(S, 0, 0, S, 0, 0); ctx.imageSmoothingEnabled = false;
