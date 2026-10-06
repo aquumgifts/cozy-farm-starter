@@ -5,7 +5,7 @@ One HTML file for the engine, `config.js` for the map, crops, prices and texts. 
 
 **▶ Play it:** [aquumgifts.github.io/cozy-farm-starter](https://aquumgifts.github.io/cozy-farm-starter/) · also on [itch.io](https://aquumgifts.itch.io/cozy-farm-starter)
 
-![Cozy Farm Starter](docs/screenshot.png)
+![Cozy Farm Starter gameplay](docs/gameplay.gif)
 
 ## Features
 
