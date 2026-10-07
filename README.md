@@ -25,6 +25,8 @@ Edit `config.js`: draw a new map, change prices and growth speed, add crops (a 4
 The full [Cozy Farm](https://aquumgifts.itch.io/cozy-farm) pack has 7 more crops in exactly this format, animated water,
 the farmhouse, barn and coop, 8 villagers, cows and a brown hen.
 
+- Every Cozy Farm art pack in one download: [Cozy Farm Premium](https://aquumgifts.itch.io/cozy-farm-premium) (20 packs: seasons, village, animals, food, fishing, a forest, a mine, a beach and more).
+
 Run it locally with any static server, for example `python3 -m http.server 8000`, then open http://localhost:8000.
 
 ## Licenses
